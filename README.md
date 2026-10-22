@@ -139,4 +139,4 @@ Beyond coding, I blend **technology, AI and marketing strategy** to transform id
 📧 Email: **otieonojobochieng19@gmail.com**  
 🔗 LinkedIn: **https://www.linkedin.com/in/job-otieno-5871ab348**  
 🌐 Website: **https://www.freshcatch.co.ke/**   
-🚀 Portfolio: **Coming Soon **
+🚀 Portfolio: **https://otienojob.vercel.app/**

@@ -1,4 +1,5 @@
- 
+# 👋 Hi, I'm Job Otieno
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:075985,100:38BDF8&height=230&section=header&text=JOB%20OTIENO&fontSize=54&fontColor=FFFFFF&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=72&descSize=17" width="100%" />
 </p>
@@ -71,7 +72,7 @@ My technical toolkit covers the major stages of software development, from user 
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=dark" />
-  <img src="https://img.shields.io/badge/Neon-Serverless%20PostgreSQL-00E599?style=flat-square&logo=neon&logoColor=111111" />
+  <img src="https://cdn.simpleicons.org/neon/00E599" height="48" alt="Neon" />
 </p>
 
 **Technologies:** MySQL, PostgreSQL, Neon (Serverless PostgreSQL), MongoDB and Firebase.
@@ -188,9 +189,7 @@ These reports show different aspects of language usage across repositories and c
 
 ### 📈 Contribution Overview
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Craka250&theme=tokyonight" width="100%" />
-</p>
+I believe in consistent learning, practical development and continuous improvement through building and contributing to software projects.
 
 ---
 
@@ -220,6 +219,22 @@ These reports show different aspects of language usage across repositories and c
 - 🚀 Interested in startups, entrepreneurship and product development.
 - 🤝 Passionate about collaboration, innovation and community impact.
 - 🌍 Enjoy solving practical problems through technology.
+
+---
+
+## 🧭 Developer Wisdom
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i>
+</p>
+
+- 🧩 **Understand before you build:** A clear understanding of the problem leads to better software solutions.
+- 🏗️ **Design for growth:** Good architecture makes systems easier to maintain, extend and scale.
+- 🧹 **Keep code clean:** Write readable, reusable and well-structured code that other developers can understand.
+- 🧪 **Test what you build:** Quality is not an afterthought; testing and validation belong throughout development.
+- 🔐 **Think about security:** Protect data, validate inputs and apply secure development practices.
+- 📚 **Never stop learning:** Technology evolves, and effective developers evolve with it.
+- 🤝 **Build with purpose:** The best software solves real problems and creates meaningful value.
 
 ---
 

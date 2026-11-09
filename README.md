@@ -71,9 +71,10 @@ My technical toolkit covers the major stages of software development, from user 
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=dark" />
+  <img src="https://img.shields.io/badge/Neon-Serverless%20PostgreSQL-00E599?style=flat-square&logo=neon&logoColor=111111" />
 </p>
 
-**Technologies:** MySQL, PostgreSQL, MongoDB and Firebase.
+**Technologies:** MySQL, PostgreSQL, Neon (Serverless PostgreSQL), MongoDB and Firebase.
 
 ### 04. Artificial Intelligence & Automation
 
@@ -92,6 +93,21 @@ My technical toolkit covers the major stages of software development, from user 
 </p>
 
 **Tools:** Git, GitHub, Visual Studio Code, Visual Studio, Postman and Figma.
+
+### 06. Cloud Platforms & Deployment
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Render-Cloud%20Hosting-46E3B7?style=for-the-badge&logo=render&logoColor=111111" />
+  <img src="https://img.shields.io/badge/Vercel-Frontend%20Deployment-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-Web%20Hosting-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-Cloud%20Deployment-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-Edge%20Platform-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-Static%20Hosting-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
+</p>
+
+**Platforms:** Render, Vercel, Netlify, Railway, Cloudflare and GitHub Pages.
+
+**Focus:** Frontend hosting, backend deployment, cloud database connectivity, static website deployment and production application delivery.
 
 ---
 
@@ -138,7 +154,7 @@ I enjoy turning ideas into functional digital products that address practical bu
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics Dashboard
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Craka250&theme=tokyonight" width="100%" />
@@ -147,45 +163,33 @@ I enjoy turning ideas into functional digital products that address practical bu
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Craka250&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false&border_color=30363D&rank_icon=github" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Craka250&theme=tokyonight" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com/?user=Craka250&theme=tokyonight&hide_border=false&border=30363D" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Craka250&theme=tokyonight&utcOffset=3" width="100%" />
     </td>
   </tr>
 </table>
 
 ### 🌐 Programming Language Analytics
 
-These complementary reports provide a broader view of the languages detected in my repositories and commit activity.
+These reports show different aspects of language usage across repositories and commit activity.
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Craka250&layout=donut-vertical&langs_count=20&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=false&border_color=30363D" width="100%" />
-    </td>
-    <td width="50%" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Craka250&theme=tokyonight" width="100%" />
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Craka250&theme=tokyonight" width="65%" />
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Craka250&theme=tokyonight" width="100%" />
     </td>
   </tr>
 </table>
 
-### 📈 Contribution Activity
+### 📈 Contribution Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Craka250&theme=tokyo-night&hide_border=false&area=true" width="100%" />
-</p>
-
-### 🏅 Developer Metrics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Craka250&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Craka250&theme=tokyonight&utcOffset=3" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Craka250&theme=tokyonight" width="100%" />
 </p>
 
 ---
@@ -202,8 +206,8 @@ These complementary reports provide a broader view of the languages detected in 
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Craka250?label=Followers&style=for-the-badge&logo=github&color=0969DA" />
-  <img src="https://img.shields.io/github/stars/Craka250?label=Total%20Stars&style=for-the-badge&logo=github&color=E3B341" />
-  <img src="https://img.shields.io/github/repos/Craka250?label=Public%20Repositories&style=for-the-badge&logo=github&color=238636" />
+  <img src="https://img.shields.io/github/stars/Craka250?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github&color=E3B341" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FCraka250&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&logo=github&color=238636" />
   <img src="https://komarev.com/ghpvc/?username=Craka250&label=Profile%20Views&style=for-the-badge&color=0E75B6" />
 </p>
 

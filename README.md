@@ -1,142 +1,244 @@
+ 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f0ff,50:ff00ff,100:00f0ff&height=260&section=header&text=JOB%20OTIENO&fontSize=50&fontColor=ffffff&animation=twinkling&desc=AI%20%7C%20Automation%20%7C%20Full-Stack%20Engineer&descAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:075985,100:38BDF8&height=230&section=header&text=JOB%20OTIENO&fontSize=54&fontColor=FFFFFF&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=72&descSize=17" width="100%" />
 </p>
 
-<h1 align="center">
-  Hi 👋, I'm Job Otieno
-</h1>
+<h1 align="center">Hi 👋, I'm Job Otieno</h1>
+
+<h3 align="center">Software Engineer | Full-Stack Developer | Mobile App Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer;AI+Automation+Enthusiast;Product+Builder;Tech+%26+Marketing+Strategist;Always+Learning+%F0%9F%9A%80" />
-</p>
-
-<h3 align="center"> Full-Stack Engineer | AI Automation Enthusiast | Product Builder | Tech & Marketing Strategist</h3>
-
-<p align="center">
-🚀 Building Intelligent Systems • 🌍 Tech for Impact • ⚡ Always Shipping
-</p>
-
----
-
-### 🧠 About Me
-I’m a passionate **full-stack engineer and AI automation enthusiast** focused on building **intelligent, scalable and impactful digital products**.
-
-I enjoy **designing clean architectures**, **automating workflows using AI agents** and **developing modern web and mobile applications**.
-
-Beyond coding, I blend **technology, AI and marketing strategy** to transform ideas into **products that solve real-world problems**.
-
----
-
-### ⚙️ Tech Stack
-
-### 💻 Languages & Tools
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://skillicons.dev/icons?i=github" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
-</p>
-
-**Languages:** JavaScript, TypeScript, Python, PHP  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express.js, Laravel  
-**Databases:** MySQL, PostgreSQL, MongoDB, Firebase  
-**AI & Automation:** OpenAI APIs, AI Agents, Prompt Engineering, Workflow Automation  
-**DevOps & Tools:** Docker, Git, GitHub Actions, Linux, CI/CD  
-
----
-
-### ✨ Life & Interests
-- 💻 Full-stack engineer & AI learner  
-- 🤖 Exploring AI automation & agentic systems  
-- 🚀 Startup & product enthusiast  
-- 🌍 Nature lover, creative thinker & problem solver  
-- 🤝 Passionate about collaboration & community building  
-
----
-
-## 📜 Developer Wisdom
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true"/>
-</p>
-
-## 📊 GitHub Analytics Dashboard
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Craka250&theme=tokyonight&cache_seconds=1800)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Craka250&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Craka250&theme=tokyonight&cache_seconds=1800" height="165"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Scalable+Software+Systems;Developing+Modern+Web+%26+Mobile+Applications;Engineering+Intelligent+AI+Solutions;Automating+Workflows+with+AI+Agents;Turning+Ideas+into+Impactful+Digital+Products" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Craka250&layout=compact&theme=tokyonight&cache_seconds=1800" height="165"/>
+  <a href="https://otienojob.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Craka250">
+    <img src="https://img.shields.io/badge/GitHub-Craka250-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/job-otieno-5871ab348">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Craka250&theme=tokyo-night&cache_seconds=1800)
-
----
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Craka250&label=Profile%20Views&color=00ffff&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/commit-activity/m/Craka250/Craka250?label=Monthly%20Commits&color=ff00ff&style=for-the-badge"/>
-</p>
-
-## 👑 Developer Honors
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Craka250&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Craka250&theme=tokyonight&utcOffset=3"/>
+  🚀 Engineering Solutions &nbsp; • &nbsp; 🌍 Technology for Impact &nbsp; • &nbsp; ⚡ Continuous Innovation
 </p>
 
 ---
 
-## 🏆 Developer Metrics Dashboard
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Craka250&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Craka250&theme=tokyonight"/>
+I'm **Job Otieno**, a Software Engineer passionate about engineering scalable software systems, intelligent applications and impactful digital products.
+
+I specialize in building modern web applications, developing backend systems and designing solutions that combine technology, usability and business needs.
+
+My interests extend to Artificial Intelligence, agentic systems and workflow automation, where I explore ways to leverage intelligent technologies to solve real-world problems.
+
+**What drives me:**
+- 🏗️ Software engineering, system design and architecture.
+- 💻 Full-stack web and mobile application development.
+- ⚙️ Backend engineering, API development and database management.
+- 🤖 Artificial Intelligence, AI agents and workflow automation.
+- 🧪 Software testing, quality assurance and system maintenance.
+- 🚀 Building and improving technology-driven products.
+
+---
+
+## 🛠️ Technical Stack
+
+My technical toolkit covers the major stages of software development, from user interfaces to backend systems, data management and intelligent automation.
+
+### 01. Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
 </p>
 
+**Technologies:** HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js and Tailwind CSS.
+
+### 02. Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python&theme=dark" />
+</p>
+
+**Technologies:** Node.js, Express.js, PHP, Laravel, Python and RESTful APIs.
+
+### 03. Databases & Data Management
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=dark" />
+</p>
+
+**Technologies:** MySQL, PostgreSQL, MongoDB and Firebase.
+
+### 04. Artificial Intelligence & Automation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+  <img src="https://img.shields.io/badge/OpenAI-API-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+</p>
+
+**Areas:** AI integration, OpenAI APIs, AI agents, prompt engineering, agentic systems and intelligent workflow automation.
+
+### 05. Development Tools & Productivity
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma&theme=dark" />
+</p>
+
+**Tools:** Git, GitHub, Visual Studio Code, Visual Studio, Postman and Figma.
+
+---
+
+## 🚀 Featured Projects
+
+I enjoy turning ideas into functional digital products that address practical business and community needs.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Personal Portfolio</h3>
+      <p align="center">
+        <a href="https://otienojob.vercel.app/">
+          <img src="https://img.shields.io/badge/Live%20Project-Visit%20Portfolio-0EA5E9?style=for-the-badge&logo=vercel" />
+        </a>
+      </p>
+      <p>A professional portfolio showcasing my software engineering capabilities, services, projects and technical journey.</p>
+      <p><b>Focus:</b> Software Engineering, Web Development, AI and Automation.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🐟 Lilian's Fresh Catch</h3>
+      <p align="center">
+        <a href="https://www.freshcatch.co.ke/">
+          <img src="https://img.shields.io/badge/Live%20Project-Visit%20Website-16A34A?style=for-the-badge&logo=googlechrome" />
+        </a>
+      </p>
+      <p>An online fish ordering platform designed to simplify product discovery, ordering, digital payments and delivery coordination.</p>
+      <p><b>Focus:</b> E-commerce, Backend Systems and Digital Payments.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">🏋️ VYRON Fitness</h3>
+      <p align="center">
+        <a href="https://vyron-fitnessss.netlify.app/">
+          <img src="https://img.shields.io/badge/Live%20Project-Visit%20VYRON%20Fitness-C8FF3D?style=for-the-badge&logo=netlify&logoColor=111111" />
+        </a>
+      </p>
+      <p>A digital fitness platform built to support gym visibility, membership management and an engaging online fitness experience.</p>
+      <p><b>Focus:</b> Web Development, Membership Systems and Payment Integration.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Craka250&theme=tokyonight&utcOffset=3"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Craka250&theme=tokyonight" width="100%" />
+</p>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Craka250&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false&border_color=30363D&rank_icon=github" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=Craka250&theme=tokyonight&hide_border=false&border=30363D" width="100%" />
+    </td>
+  </tr>
+</table>
+
+### 🌐 Programming Language Analytics
+
+These complementary reports provide a broader view of the languages detected in my repositories and commit activity.
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Craka250&layout=donut-vertical&langs_count=20&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=false&border_color=30363D" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Craka250&theme=tokyonight" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Craka250&theme=tokyonight" width="65%" />
+    </td>
+  </tr>
+</table>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Craka250&theme=tokyo-night&hide_border=false&area=true" width="100%" />
+</p>
+
+### 🏅 Developer Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Craka250&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Craka250&theme=tokyonight&utcOffset=3" width="49%" />
 </p>
 
 ---
 
-## 🎯 Contribution Flow
+## 🐍 Contribution Journey
 
-![Snake animation](https://raw.githubusercontent.com/Craka250/Craka250/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Craka250/Craka250/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation" />
+</p>
 
 ---
 
-## 📡 Live Visitors
+## 📡 GitHub Community & Profile Reach
 
-![Visitors](https://komarev.com/ghpvc/?username=Craka250&color=blueviolet&style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Craka250?label=Followers&style=for-the-badge&logo=github&color=0969DA" />
+  <img src="https://img.shields.io/github/stars/Craka250?label=Total%20Stars&style=for-the-badge&logo=github&color=E3B341" />
+  <img src="https://img.shields.io/github/repos/Craka250?label=Public%20Repositories&style=for-the-badge&logo=github&color=238636" />
+  <img src="https://komarev.com/ghpvc/?username=Craka250&label=Profile%20Views&style=for-the-badge&color=0E75B6" />
+</p>
 
+---
 
-### 🤝 Let's Connect
+## 💡 Beyond the Code
 
-📧 Email: **otieonojobochieng19@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/job-otieno-5871ab348**  
-🌐 Website: **https://www.freshcatch.co.ke/**   
-🚀 Portfolio: **https://otienojob.vercel.app/**
+- 🧠 Continuously learning and exploring emerging technologies.
+- 🤖 Exploring intelligent automation and agentic systems.
+- 🚀 Interested in startups, entrepreneurship and product development.
+- 🤝 Passionate about collaboration, innovation and community impact.
+- 🌍 Enjoy solving practical problems through technology.
+
+---
+
+## 🤝 Let's Connect & Build Something Impactful
+
+I'm always interested in connecting with developers, technology enthusiasts, innovators and people building meaningful digital products.
+
+<p align="center">
+  <a href="mailto:otienojob.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/job-otieno-5871ab348">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://otienojob.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0EA5E9?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Building scalable systems. Engineering intelligent solutions. Creating meaningful impact.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:075985,100:38BDF8&height=110&section=footer" width="100%" />
+</p>

@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Job Otieno
-
-<p align="center">
+ <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:075985,100:38BDF8&height=230&section=header&text=JOB%20OTIENO&fontSize=54&fontColor=FFFFFF&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=72&descSize=17" width="100%" />
 </p>
 
@@ -225,7 +223,7 @@ I believe in consistent learning, practical development and continuous improveme
 ## 🧭 Developer Wisdom
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer and technology quote" />
 </p>
 
 - 🧩 **Understand before you build:** A clear understanding of the problem leads to better software solutions.

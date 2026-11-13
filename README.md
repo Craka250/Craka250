@@ -155,7 +155,7 @@ I enjoy turning ideas into functional digital products that address practical bu
           <img src="https://img.shields.io/badge/Live%20Project-Try%20SmartSMS-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
         </a>
       </p>
-      <p>An AI-powered SMS classification application that detects spam and legitimate messages using Natural Language Processing and Machine Learning. It combines TF-IDF text feature extraction, a Multinomial Naive Bayes classifier and rule-based security screening to identify suspicious credential requests, including PIN and OTP scams.</p>
+      <p>An AI-powered SMS classification application that detects spam and legitimate messages using Natural Language Processing and Machine Learning.</p>
       <p><b>Technologies:</b> Python, Streamlit, Scikit-learn, Pandas and Joblib.</p>
       <p><b>Focus:</b> Artificial Intelligence, Machine Learning, NLP, Text Classification and Security Screening.</p>
     </td>

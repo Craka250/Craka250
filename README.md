@@ -46,45 +46,42 @@ My interests extend to Artificial Intelligence, agentic systems and workflow aut
 
 ---
 
-## 🏆 Achievements & Milestones
+## 🏆 Certifications, Awards & Recognition
 
 <table border="1" cellpadding="12" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Academic Excellence</h3>
-      Pursuing a BSc in Software Engineering at Kirinyaga University.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 AI & Machine Learning</h3>
-      Built SmartSMS, an NLP-powered SMS spam detection application.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 Full-Stack Development</h3>
-      Designed and deployed functional web applications and backend systems.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚀 Product Development</h3>
-      Built and deployed real-world digital products, including e-commerce and fitness platforms.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Cloud & Deployment</h3>
-      Deployed applications using modern cloud hosting and database platforms.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔄 AI Automation</h3>
-      Exploring agentic systems, intelligent workflows and process automation.
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🌍 Technology & Community Impact</h3>
-      Applying software engineering to practical problems through innovation, collaboration and community-focused solutions.
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="left">Credential</th>
+      <th align="left">Issuing Institution</th>
+      <th align="left">Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <h3>🤖 AI Automation & Agentic Systems</h3>
+        Practical training in generative AI, AI agent development, agentic-system design, n8n workflow automation and API integrations.
+      </td>
+      <td valign="top">Data Breed Africa</td>
+      <td valign="top">May 2026</td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <h3>🏅 Innovation Award</h3>
+        Recognized for innovative thinking and future-focused problem-solving, with emphasis on artificial intelligence, user experience and emerging technologies.
+      </td>
+      <td valign="top">Kirinyaga University</td>
+      <td valign="top">March 2026</td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <h3>📜 Industrial Attachment Completion Certificate</h3>
+        Successfully completed industrial attachment involving research, product evaluation, data analysis, technology exploration and software and hardware assistance.
+      </td>
+      <td valign="top">Mfano Bora Africa Ltd</td>
+      <td valign="top">August 2026</td>
+    </tr>
+  </tbody>
 </table>
 
 ---

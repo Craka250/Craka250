@@ -46,6 +46,49 @@ My interests extend to Artificial Intelligence, agentic systems and workflow aut
 
 ---
 
+## 🏆 Achievements & Milestones
+
+<table border="1" cellpadding="12" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Academic Excellence</h3>
+      Pursuing a BSc in Software Engineering at Kirinyaga University.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI & Machine Learning</h3>
+      Built SmartSMS, an NLP-powered SMS spam detection application.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Full-Stack Development</h3>
+      Designed and deployed functional web applications and backend systems.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 Product Development</h3>
+      Built and deployed real-world digital products, including e-commerce and fitness platforms.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ Cloud & Deployment</h3>
+      Deployed applications using modern cloud hosting and database platforms.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔄 AI Automation</h3>
+      Exploring agentic systems, intelligent workflows and process automation.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🌍 Technology & Community Impact</h3>
+      Applying software engineering to practical problems through innovation, collaboration and community-focused solutions.
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Technical Stack
 
 My technical toolkit covers the major stages of software development, from user interfaces to backend systems, data management and intelligent automation.
